@@ -1,0 +1,5 @@
+Lista de adiacenta: 
+0 []
+1 []
+
+
