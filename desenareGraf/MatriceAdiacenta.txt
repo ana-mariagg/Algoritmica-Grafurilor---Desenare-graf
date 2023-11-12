@@ -1,0 +1,7 @@
+In graf sunt 4 noduri
+
+Matricea de adiacenta: 
+0 1 1 1 
+1 0 1 0 
+1 1 0 1 
+1 1 0 0 
